@@ -35,6 +35,7 @@ Database Installation
 To Run This Project
 
 1.Goto the Browser 
+
 2.Type : localhost/major_Project-add_expenses/add_expenses.php
 
 3. Now Webpage is visible
