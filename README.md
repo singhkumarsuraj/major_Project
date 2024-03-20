@@ -1,10 +1,8 @@
-startbootstrap-img-upload
-Image Upload Features are being introduced by using :File picker 
-
-and stored images into the folder named: upload 
-visit uploaded images into this folder
-
-Database : create a Database name "ema"  and import file "ema.sql" table .
+1. startbootstrap-img-upload
+2. Image Upload Features are being introduced by using :File picker
+3. and stored images into the folder named: upload
+4. visit uploaded images into this folder
+5. Database : create a Database name "ema"  and import file "ema.sql" table .
 
 Note : 
 1: Save this project into XAMPP ---> htdocs.
