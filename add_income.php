@@ -47,7 +47,7 @@
                             <option disabled>Select Category</option>
                             <?php 
                             require_once('include/db.php');
-                            $select_category = "SELECT * FROM category WHERE category_purpose='income'";
+                            $select_category = "SELECT * FROM category WHERE category_purpose='income'"; // only category "income" is showning
                             $run_category = mysqli_query($conn,$select_category);
                               while($row_category = mysqli_fetch_array($run_category))
                               {
