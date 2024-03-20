@@ -1,5 +1,5 @@
 startbootstrap-img-upload
-Image Upload Features are being Add by using <File picker> and stored images into the folder named <upload> 
+Image Upload Features are being introduced by using <File picker> and stored images into the folder named <upload> 
 visit uploaded images into this folder
 
 Database : create a Database name "ema"  and import file "ema.sql" table .
