@@ -36,7 +36,7 @@ To Run This Project
 
 1.Goto the Browser 
 
-2.Type : localhost/major_Project-add_expenses/add_expenses.php
+2.Type : http://localhost/major_Project-add_expense/add_expense.php
 
 3. Now Webpage is visible
 
