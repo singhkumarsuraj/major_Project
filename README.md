@@ -1,5 +1,6 @@
 startbootstrap-img-upload
 Image Upload Features are being introduced by using :File picker 
+
 and stored images into the folder named: upload 
 visit uploaded images into this folder
 
